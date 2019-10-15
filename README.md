@@ -1,5 +1,12 @@
 # phystricks : use python to create your pictures to be inserted in LaTeX
 
+
+## Deprecation warning
+
+In the same time as a jump to python3 (an many linting), this project changes its name to `yanntricks`. I think that the last working commit is `cfea4bfcc8fa8a019c0a3f30d862be73398c27ca`.
+
+Please check [yanntricks](https://github.com/LaurentClaessens/yanntricks).
+
 ## General introduction
 
 The purpose of this module is to produce pictures to be inserted in your LaTeX document using only python and [Sage](http://sagemath.org) techniques. The motto is :
